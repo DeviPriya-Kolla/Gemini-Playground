@@ -17,8 +17,45 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 🚀 [Try the Gemini Chatbot on Hugging Face Spaces](https://huggingface.co/spaces/DeviPriyaK/Gemini-Playground)
 
-<!-- Optional: Add a screenshot below -->
-<!-- ![Gemini Chatbot Demo](Gemini Chatbot Interface.png) -->
+---
+
+## 💻 How to Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/DeviPriya-Kolla/Gemini-Playground.git
+   cd Gemini-Playground
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Set up your Google API key:**
+   - Create a `.env` file or set the environment variable as required by your app.
+
+4. **Run the app:**
+   ```bash
+   python app.py
+   ```
+   or, if using Gradio CLI:
+   ```bash
+   gradio app.py
+   ```
+
+---
+
+## 📝 Working Instructions
+
+- Enter your message in the chat interface.
+- The chatbot will respond using the Google API.
+- For any configuration, check the `app.py` file and update as needed.
+
+---
+
+
+[Gemini Chatbot Demo](Gemini Chatbot Interface.png)
 
 <!-- For Hugging Face README only: -->
 <!-- <iframe src="https://huggingface.co/spaces/DeviPriyaK/Gemini-Playground?embed=true" width="850" height="450"></iframe> -->
