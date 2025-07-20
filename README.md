@@ -1,5 +1,5 @@
 ---
-title: Gemni Chatbot
+title: Gemini Chatbot
 emoji: ⚡
 colorFrom: yellow
 colorTo: gray
