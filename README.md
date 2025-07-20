@@ -6,19 +6,6 @@
 - **Features:** Real-time chat, easy deployment, customizable interface
 - **Use Cases:** Demos, learning, prototyping conversational AI
 
----
-title: Gemini Chatbot
-emoji: ⚡
-colorFrom: yellow
-colorTo: gray
-sdk: gradio
-sdk_version: 5.35.0
-app_file: app.py
-pinned: false
-license: apache-2.0
-short_description: Chatbot which uses Google API
----
-
 🚀 [Try the Gemini Chatbot on Hugging Face Spaces](https://huggingface.co/spaces/DeviPriyaK/Gemini-Playground)
 
 ---
