@@ -59,7 +59,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 ---
 
 
-![Gemini Chatbot Demo](Gemini Chatbot Interface.png)
+![Gemini Chatbot Demo](/Gemini%20Chatbot%20Interface.png)
 
 <!-- For Hugging Face README only: -->
 <!-- <iframe src="https://huggingface.co/spaces/DeviPriyaK/Gemini-Playground?embed=true" width="850" height="450"></iframe> -->
