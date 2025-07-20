@@ -1,3 +1,11 @@
+## 📝 About
+
+**Gemini Chatbot** is an interactive conversational AI application built with [Gradio](https://gradio.app/) that leverages the power of Google's Gemini API. It provides users with a simple chat interface to interact with the chatbot, which responds intelligently using Google’s language models. This project demonstrates how to integrate external APIs into a Python web app and deploy it seamlessly on Hugging Face Spaces.
+
+- **Tech Stack:** Python, Gradio, Google Gemini API
+- **Features:** Real-time chat, easy deployment, customizable interface
+- **Use Cases:** Demos, learning, prototyping conversational AI
+
 ---
 title: Gemini Chatbot
 emoji: ⚡
@@ -9,10 +17,6 @@ app_file: app.py
 pinned: false
 license: apache-2.0
 short_description: Chatbot which uses Google API
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
 ---
 
 🚀 [Try the Gemini Chatbot on Hugging Face Spaces](https://huggingface.co/spaces/DeviPriyaK/Gemini-Playground)
@@ -58,7 +62,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 ---
 
-
+## Demo Screenshot
 ![Gemini Chatbot Demo](/Gemini%20Chatbot%20Interface.png)
 
 <!-- For Hugging Face README only: -->
