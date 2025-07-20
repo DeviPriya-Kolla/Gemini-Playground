@@ -43,7 +43,11 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
    ```bash
    gradio app.py
    ```
-
+5. **How to push to both remotes:**
+   ```bash
+   git push origin main      # For Hugging Face
+   git push github main      # For GitHub
+   ```
 ---
 
 ## 📝 Working Instructions
